@@ -1,0 +1,2 @@
+This is the Airbnb clone made using props and map() mainly. 
+Project in section 2 of scrimba react js course.
